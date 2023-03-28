@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning **Typescript & practise React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adrianSACHA?tab=repositories](https://github.com/adrianSACHA?tab=repositories)
+- 👨‍💻 My portafolio / resume is availabe [HERE](https://adriansacha.github.io/personal-homepage/)
+
+
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/adrianSACHA?tab=repositories)
 
 - 📫 How to reach me -> **asachajdakiewicz@gmail.com**
 
