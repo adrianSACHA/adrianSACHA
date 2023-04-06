@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian Sachajdakiewicz</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Junior front-end developer at OTCF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriansacha&label=Profile%20views&color=0e75b6&style=flat" alt="adriansacha" /> </p>
 
-- 🌱 I’m currently learning **Typescript & practise React** and recruitment task
+- 🌱 I’m currently learning **Typescript & practise React**.
 
-- 👨‍💻 My portafolio / resume is availabe [HERE](https://adriansacha.github.io/personal-homepage/)
+- updated📄 My portafolio / resume is availabe [HERE](https://adriansacha.github.io/personal-homepage/)
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/adrianSACHA?tab=repositories)
 
