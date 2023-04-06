@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript & practise React**.
 
-- updated📄 My portafolio / resume is availabe [HERE](https://adriansacha.github.io/personal-homepage/)
+- 📄 My portafolio / resume is availabe [HERE](https://adriansacha.github.io/personal-homepage/)
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/adrianSACHA?tab=repositories)
 
